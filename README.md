@@ -26,4 +26,4 @@ For testers: working on your local test, after the test scripts are run successf
 
 # Wiki page
 
-Please check Wiki page for detail documentation about this repository.
+Please check [Wiki page](https://github.com/tuyen/SeleniumTest/wiki) for detail documentation about this repository.
