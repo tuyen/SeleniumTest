@@ -1,0 +1,6 @@
+/syslogs/*
+/target/*
+/TestReport/*
+/Download/*
+/target/
+Documentation.docx
